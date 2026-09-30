@@ -29,7 +29,7 @@ Node.js · Express.js · Sequelize · MySQL · dotenv
 **Prerequisites:** Node.js and MySQL
 
 ```bash
-git clone https://github.com/Archils/E-commerceBackEnd.git
+git clone https://github.com/Archo2/E-commerceBackEnd.git
 cd E-commerceBackEnd
 npm install
 ```
@@ -57,5 +57,5 @@ npm install
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
